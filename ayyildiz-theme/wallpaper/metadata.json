@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Name": "Ayyildiz",
+        "Id": "Ayyildiz",
+        "License": "GPLv2+",
+        "Authors": [
+            {
+                "Name": "Pardus Dev",
+                "Email": "dev@pardus.org.tr"
+            }
+        ]
+    }
+}
